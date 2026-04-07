@@ -23,10 +23,12 @@ I'm currently seeking roles in **Data Science** and **Data Analytics** where I c
 
 | Project | Description |
 |---|---|
-| [College degree impact on pay](https://github.com/ZinnNotZen/CapstoneWork) | B.S. Capstone project — Finding out how much a college degree can affect pay |
+| [College Degree Impact on Pay](https://github.com/ZinnNotZen/CapstoneWork) | Finding out how much a college degree can affect pay - B.S. Capstone project |
 | [Crop Seedling Classification](https://github.com/ZinnNotZen/Crop-Seedling) | Neural network model for classifying crop seedlings from images |
 | [Melbourne Housing Prices](https://github.com/ZinnNotZen/Melbourn-HousesHousing-Prices-in-Melbourne) | Predicting housing prices using regression modeling — M.S. Capstone |
 | [Sales Pipeline Analytics](https://github.com/ZinnNotZen/sales-pipeline-analytics) | Analyzing sales pipeline data to surface trends and forecast outcomes |
+| [Data Modeling with Postgres](https://github.com/ZinnNotZen/Data-Modeling-with-Postgres) | Creating and ETL pipeline to examine how Sparkify users listen to music |
+| [Classify Sentences](https://github.com/ZinnNotZen/Classify-Sentences) | Using neural  network models to classify sentences as positive or negative |
 
 ---
 
